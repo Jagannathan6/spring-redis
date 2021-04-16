@@ -1,0 +1,5 @@
+redis:
+  host: http://localhost
+  port: 6432
+server:
+  port: 8081
